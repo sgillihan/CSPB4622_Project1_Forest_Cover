@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 __pycache__/
 *.pyc
+*.html
 data/
 Project1_Guideline.docx
 Project1_Rubric.docx
